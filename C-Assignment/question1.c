@@ -30,3 +30,5 @@ int main() {
 
     return 0;
 }
+// This program calculates the factorial of a number using recursion.
+// It handles negative input by prompting the user to enter a valid number.
